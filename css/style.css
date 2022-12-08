@@ -1,0 +1,80 @@
+
+.bg-image-full {
+
+    background-image: url(./img/Fondo\ de\ pantalla\ .jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(0,0,0,0.9);
+    background-attachment: fixed;
+}
+
+.rounded-circle {
+
+    height: 200px;
+    padding-bottom: 20px;
+}
+
+form {
+
+    margin: 10%;
+    padding: 5% 20%;
+}
+form .col-md-4 {
+
+    width: 100%;
+    
+}
+form .vstack {
+
+    margin-top: 30px;
+}
+
+#educacion {
+
+    text-align: center;
+}
+
+#informacion {
+
+    padding: 0% 10% 10% 10%;
+}
+
+#educacion H2 {
+
+    margin-bottom: 50px;
+}
+
+#educacion {
+
+    margin-bottom: 5%;
+}
+#educacion .item{
+    
+    display: flex;
+    justify-content: space-around;
+    align-content: space-around;
+
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+
+
+footer .container {
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+   
+}
+
+.fotoCV {
+
+    width: 50px;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+
+
+
